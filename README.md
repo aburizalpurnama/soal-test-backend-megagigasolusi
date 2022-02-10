@@ -31,3 +31,5 @@ On root project directory: sudo docker-compose up
 
 # Step by Step
 1. set up configuration on application.properties
+
+create database db;
